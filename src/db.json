@@ -1,0 +1,25 @@
+{
+  "transferencias": [
+    {
+      "origin": "My account - 999403020031",
+      "iban": "fdfd",
+      "description": "fdfd",
+      "amount": "25",
+      "id": 1
+    },
+    {
+      "origin": "My account - 999403020032",
+      "iban": "fdfd",
+      "description": "fdfd",
+      "amount": "75",
+      "id": 2
+    },
+    {
+      "origin": "",
+      "iban": "",
+      "description": "",
+      "amount": null,
+      "id": 3
+    }
+  ]
+}

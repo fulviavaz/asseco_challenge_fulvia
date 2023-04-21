@@ -1,0 +1,22 @@
+  <div *ngFor="let transfer of transfers">
+    <p>Summary</p>
+
+  <p><b>Origin Account</b></p>
+  <p>{{ transfer.origin }}</p>
+
+  <p><b>Destinantion IBAN</b></p>
+  <p>{{ transfer.iban }}</p>
+
+  <p><b>Transfer Description</b></p>
+  <p>{{ transfer.description }}</p>
+
+  <p><b>Amount</b></p>
+  <p>{{ transfer.amount }}</p>
+
+  </div>
+
+
+<button routerLink="/form" type="submit" class="btn btn-light mx-2 my-5 border-primary" style="width: 120px; align-items: bottom;">Back</button>
+<button routerLink=" "  class="btn btn-primary my-5" style="width: 120px">Confirm</button>
+
+
