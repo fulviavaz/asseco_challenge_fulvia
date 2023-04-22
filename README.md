@@ -1,3 +1,10 @@
+Projeto criado em Angular e Bootstrap
+
+simulei um Backend com um db.json para armazenar os dados do formulário 
+
+
+
+
 # AssecoChallengeFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
