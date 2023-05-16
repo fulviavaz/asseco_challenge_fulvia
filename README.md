@@ -1,11 +1,10 @@
 Projeto criado em Angular e Bootstrap
-
-simulei um Backend com um db.json para armazenar os dados do formulário 
-
-
+trata-se de um formulário para transações financeiras,
+simulei um Backend com um db.json para armazenar os dados do formulário e imprimir na próxima página
 
 
-# AssecoChallengeFrontend
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
